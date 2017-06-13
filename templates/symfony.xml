@@ -1,0 +1,7 @@
+<templateSet group="symfony">
+  <template name="test" value="&lt;someText&gt;&lt;/someText&gt;" description="tester" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
