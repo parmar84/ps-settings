@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="CheckinProject" />
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+</keymap>
