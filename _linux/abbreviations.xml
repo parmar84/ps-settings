@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="MoveEditorToOppositeTabGroup">
+        <abbreviation name="mvopp" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
