@@ -1,8 +1,18 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="CommentByBlockComment">
+        <abbreviation name="comment" />
+      </action>
       <action id="MoveEditorToOppositeTabGroup">
         <abbreviation name="mvopp" />
+        <abbreviation name="throw" />
+      </action>
+      <action id="CommentByLineComment">
+        <abbreviation name="comment" />
+      </action>
+      <action id="OpenEditorInOppositeTabGroup">
+        <abbreviation name="duplicate" />
       </action>
     </abbreviations>
   </component>
