@@ -9,6 +9,7 @@
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="INDENT_GUIDE" value="1a1a1a" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
+    <option name="WHITESPACES" value="ef2929" />
   </colors>
   <attributes>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -170,6 +171,13 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
+    </option>
+    <option name="HAML_WS_REMOVAL">
+      <value>
+        <option name="FOREGROUND" value="dff0ff" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
