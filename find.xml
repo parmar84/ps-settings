@@ -23,13 +23,14 @@
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>.</mask>
       <mask>.ph</mask>
       <mask>.php</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
