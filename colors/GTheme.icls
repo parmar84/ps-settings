@@ -103,6 +103,24 @@
         <option name="FOREGROUND" value="c4a000" />
       </value>
     </option>
+    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="c0c2bd" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="c0c2bd" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="4e9a06" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="cc0000" />
@@ -226,6 +244,40 @@
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="c4a000" />
+      </value>
+    </option>
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_EXTEND">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="SASS_IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="c7a0ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_OPTIONAL">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_UNICODE_RANGE">
+      <value>
+        <option name="FOREGROUND" value="84b3e8" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
     <option name="TEXT">
