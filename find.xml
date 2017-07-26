@@ -26,17 +26,17 @@
       <mask>.</mask>
       <mask>.ph</mask>
       <mask>.php</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*scss</mask>
       <mask>*</mask>
       <mask>*js</mask>
-      <mask>*.js</mask>
       <mask>*.s</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
