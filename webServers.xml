@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="9e5be1ff-18c9-4c43-8b92-e93aa3073fdb" name="vcom" url="http://vcom.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
