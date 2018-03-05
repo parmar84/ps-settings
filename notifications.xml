@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Composer" shouldLog="false" />
+    <notification groupId="Debugger" shouldLog="false" />
+  </component>
+</application>
