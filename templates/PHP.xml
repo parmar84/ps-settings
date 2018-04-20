@@ -1,0 +1,6 @@
+<templateSet group="PHP">
+  <template name="func" value="function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="general function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
