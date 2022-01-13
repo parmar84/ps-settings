@@ -1,8 +1,8 @@
 <scheme name="GTheme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
   <colors>
     <option name="CARET_ROW_COLOR" value="70707" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -104,7 +104,6 @@
       </value>
     </option>
     <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.NUMBER">
       <value>
         <option name="FOREGROUND" value="c0c2bd" />
@@ -120,7 +119,6 @@
         <option name="FOREGROUND" value="4e9a06" />
       </value>
     </option>
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="cc0000" />
@@ -243,7 +241,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="c4a000" />
+        <option name="FOREGROUND" value="d9b511" />
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
