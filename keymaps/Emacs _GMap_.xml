@@ -35,6 +35,9 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="d" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt tab" />
+  </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
