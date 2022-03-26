@@ -5,5 +5,14 @@
         <option value="English (GB)" />
       </set>
     </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="SPANISH" />
+          </set>
+        </option>
+      </State>
+    </option>
   </component>
 </application>
