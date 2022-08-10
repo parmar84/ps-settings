@@ -36,6 +36,9 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
+  <action id="GitToolBox.BlameDetails">
+    <keyboard-shortcut first-keystroke="shift ctrl alt windows" second-keystroke="b" />
+  </action>
   <action id="GotoTest" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
