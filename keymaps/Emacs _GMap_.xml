@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="shift ctrl alt windows" second-keystroke="n" />
+  </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
@@ -60,5 +63,8 @@
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift ctrl alt windows" second-keystroke="d" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt windows" second-keystroke="z" />
   </action>
 </keymap>
