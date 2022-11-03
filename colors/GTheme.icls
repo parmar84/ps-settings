@@ -220,6 +220,12 @@
         <option name="FOREGROUND" value="84b3e8" />
       </value>
     </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="5a5a43" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
